@@ -1,0 +1,149 @@
+@font-face {
+    font-family: Noto sans;
+    src: url(../_font/NotoSans-Regular.ttf);
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Noto sans, sans-serif, arial;
+}
+#navegacao{
+    width: 100%;
+    height: auto;
+    background-color: #0099ff;
+    display: inline-flex;
+    flex-wrap: wrap;
+    color: #fff;
+}
+#h1-nav{
+    width: 78%;
+    padding: 10px 0 10px 10px;
+}
+#logout-div{
+    width: 20%;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+#usuario{
+    padding: 10px;
+}
+#log-out{
+    padding: 10px;
+}
+#logout-div a{
+    text-decoration: underline;
+    color: #fff;
+}
+#log-out img{
+    margin: 0 5px;
+    width: 25px;
+    height: 25px;
+    margin-bottom: -9px;
+}
+/*---------------------------------------*/
+#aside{
+    width: 20%;
+    height: 90vh;
+    background-color: #0099ff;
+    position: absolute;
+}
+#Avatar{
+    width: 100%;
+    height: auto;
+}
+#Avatar img{
+    width: 70%;
+    height: 240px;
+    display: block;
+    margin: auto;
+}
+/*-----------------------------------------*/
+#container{
+    width: 80%;
+    height: auto;
+    float: right;
+}
+.subTitle{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+}
+#cadastro{
+    width: 100%;
+    height: auto;
+    font-size: 14px;
+}
+#botao-registrar{
+    width: 95%;
+    height: auto;
+    margin: 20px 30px ;
+}
+#botao-registrar a{
+    color: #fff;
+    text-decoration: none;  
+}
+#btn{
+    background-color: #0099ff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+#seta{
+    margin-left: 3px;
+}
+#formulario{
+    width: 60%;
+    margin-left: 30px;
+    background-color: rgb(224, 224, 224);
+    padding: 20px;
+    border-radius: 15px;
+    display: none;
+}
+#tamanhoGarraf, #estado{
+    width: 160px;
+    height: 35px;
+    margin-top: 5px;
+}
+input[type="number"]{
+    margin-top: 5px;
+    height: 28px;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    width: 100px;
+    height: 40px;
+    background-color: #0099ff;
+    border: none;
+    border-radius: 5px;
+    color: #fff; 
+    cursor: pointer;
+}
+#registrados{
+    width: 95%;
+    height: 440px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 15px;
+    margin: 20px 0 0 30px ;
+}
+/*-----------------------------------------*/
+#rodape{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: #fff;
+}
+#dev{
+    width: 100%;
+    height: auto;
+    background-color: #0099ff;
+    text-align: center;
+}
+#dev p{
+    padding: 10px 0;
+}
+/*-----------------------------*/
+#registrados p{
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
