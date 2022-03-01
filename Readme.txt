@@ -1,1 +1,1 @@
-Aplicativo de gestão de stock
+Aplicativo de gestão de stock.
