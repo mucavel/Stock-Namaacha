@@ -1,4 +1,5 @@
 Aplicativo de gestão de stock.
+Experimetal.
 
 Chaves de Acesso
 

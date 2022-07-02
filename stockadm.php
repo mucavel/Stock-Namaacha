@@ -113,7 +113,7 @@ $d = new Funcionario("login", "127.0.0.1", "root", "");
             </table>
             </div>
             <footer id="rodape">
-                <p>Desenvolvedor: Salvador Carlos Mucavele - PAW3A @ 2021</p>
+                <p>Desenvolvedor: Salvador Carlos Mucavele - @ 2021</p>
             </footer>
         </div>
     </section>
