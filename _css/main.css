@@ -40,23 +40,7 @@
     height: 25px;
     margin-bottom: -9px;
 }
-/*---------------------------------------*/
-#aside{
-    width: 20%;
-    height: 90vh;
-    background-color: #0099ff;
-    position: absolute;
-}
-#Avatar{
-    width: 100%;
-    height: auto;
-}
-#Avatar img{
-    width: 70%;
-    height: 240px;
-    display: block;
-    margin: auto;
-}
+
 /*-----------------------------------------*/
 #container{
     width: 80%;
@@ -97,7 +81,7 @@
     background-color: rgb(224, 224, 224);
     padding: 20px;
     border-radius: 15px;
-    display: none;
+    display: block;
 }
 #tamanhoGarraf, #estado{
     width: 160px;

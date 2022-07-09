@@ -49,22 +49,13 @@
     text-decoration: underline;
 }
 
-/*---------------ASIDE----------------------------
-#aside{
-    position: relative;
-    width: 0%;
-    height: 90vh;
-    background-color: #0099ff;
-    float: left;
-}
----------------------CORPO--------------------------*/
+/*---------------------CORPO--------------------------*/
 #container{
     width: 80%;
     height: auto;
     background-color: #fff;
     display: block;
     margin: auto;
-    /*float: left;*/
 }
 .container{
     width: 100%;
@@ -100,7 +91,6 @@
     background-color: #f1f1f1;
     margin-bottom: 30px;
     border-radius: 10px;
-    display: none;
 }
 #formulario{
     width: 40%;
@@ -165,13 +155,7 @@ tr#titulo{
 td{
     height: 35px;
 }
-/*td #editar{
-    background-color: #0099ff;
-    padding: 5px;
-    color: #fff;
-    text-decoration: none;
-}
-*/
+
 td #apagar{
     background-color: #e65656;
     padding: 5px;
